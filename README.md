@@ -2,7 +2,7 @@
 
 1.  Склонируйте репозтиторий:
 
-        git clone https://github.com/DmitriZaytsev/Test-laboratory-system-innovations.git
+        git clone https://github.com/DmitriZaytsev/Test-laboratory.git
 
 2.  Перейдите в папку
 
